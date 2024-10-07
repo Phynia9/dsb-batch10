@@ -13,4 +13,4 @@ My data science and anlytics projects
 reach out to me at phanita.wng@gmail.com
 
 ## Image
-![Data Analytics](https://latize.com/wp-content/uploads/2017/11/business_advantages_of_data_analysis.jpg.jpg)
+![Data Analytics](https://latize.com/wp-content/uploads/2017/11/business_advantages_of_data_analysis.jpg)
