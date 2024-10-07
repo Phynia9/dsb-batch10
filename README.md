@@ -13,4 +13,4 @@ My data science and anlytics projects
 reach out to me at phanita.wng@gmail.com
 
 ## Image
-![Deadpool](https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Deadpool_%282016_poster%29.png/220px-Deadpool_%282016_poster%29.jpg)
+![Data Analytics](https://www.google.com/url?sa=i&url=https%3A%2F%2Flatize.com%2Fadvantages-of-big-data-analysis-for-business%2F&psig=AOvVaw0QIxD3bJFk1d-PSeYtwiS-&ust=1728418091260000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODFt6iJ_YgDFQAAAAAdAAAAABAE.jpg)
