@@ -1,6 +1,5 @@
 #create a new restaurant database
 
-## hw3 create a new restaurant database
 library(RSQLite)
 restaurant <- dbConnect(SQLite(), "restaurant.db")
 
